@@ -1,0 +1,24 @@
+Table 1. Sample statistics.
+	n	Mean	Standard Deviation	Standard Error of Mean
+LS	9	2.467	0.116	0.038
+EKF	9	1.985	0.165	0.055
+UIF	9	1.450	0.120	0.040
+MCUIF	9	0.983	0.115	0.038
+
+
+Table 2. Comparison ALE of different algorithms in multiple pedestrian walking environments.
+Algorithms	ALE (m)
+LS	3.06
+EKF	2.52
+ UIF	1.74
+MCUIF	1.13
+
+
+
+Table 3. The ALE of AP placement at the corner.
+Algorithms	ALE of Scheme I(m)	ALE of Scheme II (m)
+LS	2.85	2.63
+EKF	2.36	2.01
+ UIF	1.83	1.59
+MCUIF	1.21	1.02
+
